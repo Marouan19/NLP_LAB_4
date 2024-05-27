@@ -1,4 +1,4 @@
-# NLP Labs
+# NLP Lab 4
 
 This repository contains code for various Natural Language Processing (NLP) labs and experiments, including:
 
