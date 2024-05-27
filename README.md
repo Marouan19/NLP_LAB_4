@@ -1,3 +1,23 @@
+# NLP Labs
+
+This repository contains code for various Natural Language Processing (NLP) labs and experiments, including:
+
+1. **Web Scraping and Text Classification**
+   - Web scraping using Selenium
+   - Data preprocessing (removing HTML tags, URLs, punctuation, tokenization, etc.)
+   - Building machine learning models for text classification and regression tasks
+   - Models: Recurrent Neural Network (RNN), Bidirectional RNN (Bi-RNN) with LSTM and GRU
+
+2. **News Article Generation using GPT-2**
+   - Fine-tuning a pre-trained GPT-2 transformer model on a news article dataset
+   - Generating new news articles using the fine-tuned model
+
+3. **Sentiment Analysis using BERT**
+   - Building a sentiment analysis model using the BERT architecture
+   - Classifying product reviews as positive or negative
+   - Data preprocessing and tokenization for BERT
+   - Model training, evaluation, and inference
+
 # NLP LAB 4 - Part 1
 
 ## Introduction
